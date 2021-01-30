@@ -1,1 +1,1 @@
-web: gunicorn leadmanager.leadmanager.wsgi
+web: cd leadmanager/ && gunicorn leadmanager.wsgi
