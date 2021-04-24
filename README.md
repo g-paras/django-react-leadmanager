@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/STATUS-Completed-green.svg)
 
-This project is one of my very first project with react and django integration, this is made following Brad Tutorial
+This project is one of my very first project with react and django integration, I made this by following Brad Tutorial
 
 ### Key Features
 
